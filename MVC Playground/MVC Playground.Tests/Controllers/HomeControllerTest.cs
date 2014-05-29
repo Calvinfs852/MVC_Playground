@@ -6,6 +6,7 @@ using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using MVC_Playground;
 using MVC_Playground.Controllers;
+using MvcDemo.Controllers;
 
 namespace MVC_Playground.Tests.Controllers
 {
